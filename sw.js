@@ -4,6 +4,7 @@ const cacheAssets = [
     "index.html",
     "style.css", 
     "main.js",
+    "https://data.fixer.io/api/latest?access_key=f53cd909297cedeef88ed6bd3859e33b",
 ]; 
                                                                   
 // Call Install Event
