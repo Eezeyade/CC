@@ -13,7 +13,7 @@ const addCurrencyBtn = document.querySelector(".add-currency-btn");
 const addCurrencyList = document.querySelector(".add-currency-list");
 const currenciesList = document.querySelector(".currencies");
 
-const dataURL = "https://data.fixer.io/api/latest?access_key=f53cd909297cedeef88ed6bd3859e33b";
+const dataURL = "https://exchangeratesapi.io";
 
 const initiallyDisplayedCurrencies = ["USD", "EUR", "GBP", "JPY", "RUB"];
 let baseCurrency;
